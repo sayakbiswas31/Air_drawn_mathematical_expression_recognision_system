@@ -6,3 +6,5 @@ and solve complex maths problem like calculus.
 So this is system is designed to solve this.In air we can write any mathematical
 expression and our system will recognise by evaluating its trajectories and it will
 solve the expression.
+
+I have uploaded a sample video how it works
