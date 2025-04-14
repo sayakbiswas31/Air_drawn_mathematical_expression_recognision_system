@@ -75,6 +75,6 @@ See the system in action:
 
 **Sayak Biswas**  
 MCA Student, DCSA, Panjab University  
-Email: _your_email_here_  
+Email: sayakbiswas31.career@gmail.com 
 LinkedIn: [your-linkedin](https://www.linkedin.com/in/sayak-biswas-a87282177/)  
 GitHub: [sayakbiswas](https://github.com/sayakbiswas31)
