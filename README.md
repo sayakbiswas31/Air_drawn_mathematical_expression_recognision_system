@@ -37,6 +37,9 @@ An innovative AI-powered system that allows users to draw mathematical expressio
 ## 🎥 Demo Video
 
 See the system in action:  
+
+<video src="VID-20250304-WA0044.mp4" controls width="600"></video>
+
 👉 [Demo Video Link](#) *(https://drive.google.com/file/d/17ZxvxrdQXCUTLwkOqk7Wbd6DRExwoGlk/view?usp=drive_link)*
 
 ## 🏁 How It Works
